@@ -1,12 +1,12 @@
 <div>
-    <img align="right" width="80" alt="Elga logo RGB" src="https://github.com/user-attachments/assets/ae3838db-6b89-4d67-bd64-a7d649c582a3" />
+    <img align="right" width="80" alt="Elga logo RGB" src="images/Elga_logo_RGB.eps.jpg" />
 </div>
 <br clear="left"/>
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8f000b79-c44a-4051-987f-52f09bb56a05">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a50e9389-e239-4800-86d5-5579b291da12">
-      <img alt="ITW Welding" width="800" src="https://github.com/user-attachments/assets/a50e9389-e239-4800-86d5-5579b291da12">
+      <source media="(prefers-color-scheme: dark)" srcset="images/ITW-welding-white.png">
+      <source media="(prefers-color-scheme: light)" srcset="images/ITW-welding.png">
+      <img alt="ITW Welding" width="800" src="images/ITW-welding-white.png">
     </picture>
 </div>
 
@@ -34,10 +34,11 @@ We are a global leader in the manufacturing of high-quality welding consumables 
 
 ### 🔗 Key Resources
 
-* 🌐 **Elga Welding Official Site:** Discover our products and solutions. [Visit Website →](https://elgawelding.com/)
-* 🏢 **ITW Welding Global:** Learn about our parent division. [Visit Website →](https://www.itwwelding.com/)
+- 🌐 **Elga Welding Official Site:** Discover our products and solutions. [Visit Website →](https://elgawelding.com/)
+- 🏢 **ITW Welding Global:** Learn about our parent division. [Visit Website →](https://www.itwwelding.com/)
 
 ---
+
 <div align="center">
-  <sub>© ITW Welding AB & Elga. All rights reserved.</sub>
+  <sub>© ITW Welding AB. All rights reserved.</sub>
 </div>
