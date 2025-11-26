@@ -3,7 +3,7 @@
 </div>
 <br clear="left"/>
 <div align="center">
-    <img width="800" alt="ITW-welding" src="[https://github.com/user-attachments/assets/a50e9389-e239-4800-86d5-5579b291da12](https://github.com/user-attachments/assets/8f000b79-c44a-4051-987f-52f09bb56a05)" />
+    <img width="800" alt="ITW-welding" src="https://github.com/user-attachments/assets/8f000b79-c44a-4051-987f-52f09bb56a05" />
 </div>
 
 <br clear="left"/>
