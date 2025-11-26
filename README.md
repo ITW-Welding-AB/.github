@@ -3,7 +3,11 @@
 </div>
 <br clear="left"/>
 <div align="center">
-    <img width="800" alt="ITW-welding" src="https://github.com/user-attachments/assets/8f000b79-c44a-4051-987f-52f09bb56a05" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8f000b79-c44a-4051-987f-52f09bb56a05">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a50e9389-e239-4800-86d5-5579b291da12">
+      <img alt="ITW Welding" width="800" src="https://github.com/user-attachments/assets/a50e9389-e239-4800-86d5-5579b291da12">
+    </picture>
 </div>
 
 <br clear="left"/>
