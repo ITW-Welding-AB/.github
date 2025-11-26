@@ -1,12 +1,12 @@
 <div>
-    <img align="right" width="80" alt="Elga logo RGB" src="images/Elga_logo_RGB.eps.jpg" />
+    <img align="right" width="80" alt="Elga logo RGB" src="https://github.com/ITW-Welding-AB/.github/blob/main/images/Elga-logo-RGB.png?raw=true" />
 </div>
 <br clear="left"/>
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/ITW-welding-white.png">
-      <source media="(prefers-color-scheme: light)" srcset="images/ITW-welding.png">
-      <img alt="ITW Welding" width="800" src="images/ITW-welding-white.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ITW-Welding-AB/.github/blob/main/images/ITW-welding-white.png?raw=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/ITW-Welding-AB/.github/blob/main/images/ITW-welding.png?raw=true">
+      <img alt="ITW Welding" width="800" src="https://github.com/ITW-Welding-AB/.github/blob/main/images/ITW-welding-white.png?raw=true">
     </picture>
 </div>
 
